@@ -200,12 +200,12 @@ Documentation/
 
 ### Sales Overview
 
-![Sales Overview](Screenshots/Sales_Overview.png)
+![Sales Overview](Sales_Overview.png)
 
 ### Product Sales Details
 
-![Product Details](Screenshots/Product_Details.png)
+![Product Details](Product_Details.png)
 
 ### Data Model
 
-![Data Model](Data_Model/Tables_Relationship.png)
+![Data Model](Tables_Relationship.png)

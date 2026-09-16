@@ -192,3 +192,20 @@ DAX/
 
 Documentation/
     Business_Insights.md
+
+
+---
+
+## 📸 Dashboard Preview
+
+### Sales Overview
+
+![Sales Overview](Screenshots/Sales_Overview.png)
+
+### Product Sales Details
+
+![Product Details](Screenshots/Product_Details.png)
+
+### Data Model
+
+![Data Model](Data_Model/Tables_Relationship.png)

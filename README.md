@@ -173,25 +173,13 @@ For June 2017, the dashboard shows:
 ## 📁 Repository Structure
 
 ```text
-PowerBI/
-    Sales_Performance_Dashboard.pbix
-
-Dashboard/
-    Sales_Overview.pdf
-    Product_Sales_Details.pdf
-
-Data_Model/
-    Tables_Relationship.png
-
-Screenshots/
-    Sales_Overview.png
-    Product_Details.png
-
-DAX/
-    Measures.md
-
-Documentation/
-    Business_Insights.md
+powerbi-sales-performance-dashboard/
+│
+├── README.md
+├── Sales_Overview.png
+├── Product_Details.png
+├── Tables_Relationship.png
+└── Sales_Performance_Dashboard.pbix
 ```
 
 ---
